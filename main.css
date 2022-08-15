@@ -16,7 +16,8 @@
 }
 
 .item-1 {
-  background-color: red;
+  background:url(maldives-240526.jpg);
+  background-size: cover;
   grid-area: one;
 }
 .item-2 {
